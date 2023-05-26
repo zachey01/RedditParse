@@ -1,7 +1,7 @@
 {
   "name": "redditparse",
   "version": "1.0.0",
-  "description": "",
+  "description": "Parser for Reddit",
   "main": "src/index.js",
   "directories": {
     "test": "test"
