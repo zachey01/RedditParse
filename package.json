@@ -1,0 +1,30 @@
+{
+  "name": "redditparse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "npx nodemon index.js",
+    "test": "node test/index.js"
+  },
+  "homepage": "https://github.com/zachey01/RedditParse",
+  "bugs": {
+    "url": "https://github.com/zachey01/RedditParse/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachey01/RedditParse.git"
+  },
+  "keywords": [
+    "reddit",
+    "parser"
+  ],
+  "author": "Zachey",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
